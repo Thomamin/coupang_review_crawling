@@ -5,8 +5,8 @@
 <h1>설치 | Installation</h1>
 
 ```
-$ git clone https://github.com/JaehyoJJAng/Coupang-Review-Crawling.git
-$ cd Coupang-Review-Crawling
+$ git clone https://github.com/Thomamin/coupang_review_crawling.git
+$ cd coupang_review_crawling
 $ pip install -r ./requirements.txt
 ```
 
